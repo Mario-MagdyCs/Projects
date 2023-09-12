@@ -38,7 +38,7 @@ Getting started with Re-Estate is a breeze:
    npm start
    ```
 
-5. **Visit Our Website**: Open your web browser and go to [http://localhost:3000](http://localhost:8080) to start exploring our extensive property listings locally.
+5. **Visit Our Website**: Open your web browser and go to [http://localhost:8080](http://localhost:8080) to start exploring our extensive property listings locally.
 
 ## 💼 Usage
 
